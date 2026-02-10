@@ -1,0 +1,7 @@
+{
+  "decision": "Approved | Rejected",
+  "risk_score": 0.0,
+  "thin_file_flag": true,
+  "top_negative": ["High DTI", "High Utilization"],
+  "top_positive": ["Stable Income"]
+}

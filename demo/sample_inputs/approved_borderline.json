@@ -1,0 +1,7 @@
+{
+  "decision": "Approved",
+  "risk_score": 0.52,
+  "thin_file_flag": true,
+  "top_negative": ["Short credit history", "High utilization"],
+  "top_positive": ["Stable Income", "Low delinquencies"]
+}
